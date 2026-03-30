@@ -1,4 +1,4 @@
-<img width="1190" height="825" alt="Capture accueil Bibliothèque de prix" src="https://github.com/user-attachments/assets/fc93e1bb-99e0-4cd1-845f-4677110d6a0c" />Bibliothèque de Prix — CRM
+Bibliothèque de Prix — CRM
 > **Outil interne de consultation des prix de référence pour les marchés publics de menuiseries extérieures.**
 ![Live](https://img.shields.io/badge/🌐_Application_Live-Accéder-2E75B6?style=for-the-badge)
 ![Articles](https://img.shields.io/badge/📦_Articles-14_314-1B3A5C?style=for-the-badge)
