@@ -21,23 +21,23 @@ Solution mise en place : Un référentiel centralisé de 14 314 articles issus d
 ---
 Fonctionnalités
 Fonctionnalité	Détail
-🔍 Recherche instantanée	Par mots-clés, avec tri par pertinence, prix ou date
-📊 Statistiques temps réel	Prix min, max, moyenne, nombre de sources
-🗂️ Filtres avancés	Par catégorie, famille, type, marché source
-📅 Dates de marché	Code couleur : actif 🟢 / en attente 🔵 / expiré 🔴
-📄 Détails déroulants	Descriptions techniques longues accessibles au clic
-🌙 Mode clair / sombre	Préférence sauvegardée automatiquement
-📱 Responsive	Mobile, tablette et desktop
-🔒 Accès sécurisé	Mot de passe hashé SHA-256
-⚡ PWA	Installable comme application native
+ Recherche instantanée	Par mots-clés, avec tri par pertinence, prix ou date
+ Statistiques temps réel	Prix min, max, moyenne, nombre de sources
+ Filtres avancés	Par catégorie, famille, type, marché source
+ Dates de marché	Code couleur : actif 🟢 / en attente 🔵 / expiré 🔴
+ Détails déroulants	Descriptions techniques longues accessibles au clic
+ Mode clair / sombre	Préférence sauvegardée automatiquement
+ Responsive	Mobile, tablette et desktop
+ Accès sécurisé	Mot de passe hashé SHA-256
+ PWA	Installable comme application native
 ---
 Catégories couvertes
 Catégorie	Exemples d'articles
-🔩 Serrurerie / Métallerie	Ferme-portes, cylindres, serrures, garde-corps, anti-panique…
-🪟 Vitrerie / Miroiterie	Double vitrage, verre feuilleté, miroirs, parcloses…
-🌅 Occultations	Volets roulants, stores, brise-soleil, rideaux, persiennes…
-🚪 Menuiseries Extérieures	Fenêtres bois/PVC/alu, portes-fenêtres, châssis, coulissants…
-🏗️ Généralités	Échafaudages, nacelles, protections, main d'œuvre…
+ Serrurerie / Métallerie	Ferme-portes, cylindres, serrures, garde-corps, anti-panique…
+ Vitrerie / Miroiterie	Double vitrage, verre feuilleté, miroirs, parcloses…
+ Occultations	Volets roulants, stores, brise-soleil, rideaux, persiennes…
+ Menuiseries Extérieures	Fenêtres bois/PVC/alu, portes-fenêtres, châssis, coulissants…
+ Généralités	Échafaudages, nacelles, protections, main d'œuvre…
 ---
 Sources (22 marchés publics)
 `Bonneuil` `Bussy-Saint-Georges` `CD93` `Champigny` `CPAM` `Eragny` `Fontenay` `Gagny` `IDF Construction Durable` `Ivry` `Lagny-sur-Marne` `Livry-Gargan` `Nogent-sur-Marne` `Noisy-le-Grand` `Pantin` `Puteaux` `Sevran` `Thiais` `UPEC` `Vaujours` `Villiers-le-Bel` `Yerres`
@@ -56,9 +56,9 @@ Protection	Mot de passe hashé SHA-256
 Stockage externe	Aucune donnée transmise
 Mise à jour	Remplacement du fichier `index.html`
 ---
-📲 Installation (PWA)
+ Installation (PWA)
 L'application est accessible à :
-🌐 https://kurusano.github.io/biblio-prix-crm/
+https://kurusano.github.io/biblio-prix-crm/
 Pour l'installer comme une application native :
 iPhone : Safari → Partager → Sur l'écran d'accueil
 Android : Chrome → Menu → Ajouter à l'écran d'accueil
