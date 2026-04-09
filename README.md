@@ -9,7 +9,6 @@ Bibliothèque de Prix — CRM
 Aperçu
 > *💡 Accès protégé par mot de passe — disponible en interne CRM.*
 > <img width="1190" height="825" alt="Capture accueil Bibliothèque de prix" src="https://github.com/user-attachments/assets/a4195710-bf17-4a14-b98f-d37133b6e7a3" />
--<img width="1291" height="915" alt="Capture Bibliothèque de prix - CRM" src="https://github.com/user-attachments/assets/7a38c430-0d3f-48ba-aae8-8162d0178277" />
 
 
 
@@ -40,7 +39,6 @@ Catégorie	Exemples d'articles
  Généralités	Échafaudages, nacelles, protections, main d'œuvre…
 ---
 Sources (22 marchés publics)
-`Bonneuil` `Bussy-Saint-Georges` `CD93` `Champigny` `CPAM` `Eragny` `Fontenay` `Gagny` `IDF Construction Durable` `Ivry` `Lagny-sur-Marne` `Livry-Gargan` `Nogent-sur-Marne` `Noisy-le-Grand` `Pantin` `Puteaux` `Sevran` `Thiais` `UPEC` `Vaujours` `Villiers-le-Bel` `Yerres`
 ---
 Architecture technique
 ```
